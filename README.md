@@ -7,7 +7,7 @@
 
 ## Bio
 
-I am a  **frontend web developer**, currently studying **Software Engineering** (4th year) at [SUST](https://www.sust.edu/), Bangladesh. I have interest in **Web Development**, **UI\UX design** and reseach on **Human–computer interaction**.
+I am a  **frontend web developer**, currently studying **Software Engineering** (4th year) at [SUST](https://www.sust.edu/), Bangladesh. I have interest in **Web Development**, **UI/UX design** and reseach on **Human–computer interaction**.
 
 I like finding new ideas to solve a real life problem. Despite any circumstances, I work
 hard and learn anything that is needed to accomplish a task.
@@ -15,7 +15,7 @@ hard and learn anything that is needed to accomplish a task.
 ## Tech Stack
 
 - **Skills** : Javascript, ReactJs
-- **Also familiar with** : UI\UX Design, HTML, CSS, C++, Java
+- **Also familiar with** : UI/UX Design, HTML, CSS, C++, Java
 - **SWE** : Object Orianted Programming, Design Pattern (Java)
 - **Tools** : vscode, git, Adobe XD
 - **OS** : Windows
