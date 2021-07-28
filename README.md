@@ -13,8 +13,9 @@ hard and learn anything that is needed to accomplish the difficult task.
 ### Tech Stack
 
 - **Skills** :   ReactJs, UI & UX Design
-- **Also familiar with** :  html,css, C, Java, Javascript,Object Orianted Programming, Design Pattern
-- **Tools** : Adobe Xd, git, vscode
+- **Also familiar with** :  html,css, C, Java, Javascript
+- **SWE** : Object Orianted Programming, Design Pattern (Java)
+- **Tools** : Adobe xD, git, vscode
 - **OS** : Windows
 
 
