@@ -1,5 +1,5 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sania51)
-<h1 align='center'>Hi there! I'm Sania Rahman From BD 👋 </h1>
+<h1 align='center'>Hello there 👋 </h1>
 
 <p align='center'>
  <img src="https://github-readme-stats.vercel.app/api?username=sania51" >
@@ -7,15 +7,15 @@
 
 ### Bio
 
-I am a  **frontend web developer**, currently studing **Software Engineering** (4th year) in [SUST](https://www.sust.edu/), Bangladesh. I have interest in **UI & UX design** and reseach on **Human–computer interaction**.I choose to lead, like finding new ideas to solve a problem, despite any circumstances, I work
-hard and learn anything that is needed to accomplish the difficult task.
+I am a  **frontend web developer**, currently studying **Software Engineering** (4th year) at [SUST](https://www.sust.edu/), Bangladesh. I am interest in **UI & UX design** and reseach on **Human–computer interaction**.I like finding new ideas to solve a real life problem. Despite any circumstances, I work
+hard and learn anything that is needed to accomplish a task.
 
 ### Tech Stack
 
-- **Skills** :   ReactJs, UI & UX Design
-- **Also familiar with** :  html,css, C, Java, Javascript
+- **Skills** : Javascript, ReactJs
+- **Also familiar with** : UI & UX Design, HTML,CSS, C++, Java,
 - **SWE** : Object Orianted Programming, Design Pattern (Java)
-- **Tools** : Adobe xD, git, vscode
+- **Tools** : vscode, git, Adobe XD
 - **OS** : Windows
 
 
@@ -28,7 +28,7 @@ hard and learn anything that is needed to accomplish the difficult task.
 
 ### Hobby 
 
-<p align='center'> Reading | Cooking | Photography </p>
+<p align='center'> Reading | Travelling | Photography </p>
 
 ### Reach me
 
